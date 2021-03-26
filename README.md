@@ -2,7 +2,7 @@ While we wait for the [mimemagic fiasco](https://www.theregister.com/2021/03/25/
 
 By using an older version of `mimemagic` you don't need to worry about [installing new dependencies](https://github.com/mimemagicrb/mimemagic#dependencies). If your deploys are currently stuck, you may find this helpful.
 
-**This is GPL code.** This is not legal advice, but lots of people on the internet consider the GPL license [safe for SaaS products](https://resources.whitesourcesoftware.com/blog-whitesource/the-saas-loophole-in-gpl-open-source-licenses). If that's you, you could use this approach to get your deploys working again while waiting for the `mimemagic` dependency on Rails to be removed. **Do not use this approach if you can't have GPL code in your repo.**
+**This is GPL code.** This is not legal advice, but lots of people on the internet consider the GPL license [safe for SaaS products](https://resources.whitesourcesoftware.com/blog-whitesource/the-saas-loophole-in-gpl-open-source-licenses). If that's you, you could use this approach to get your deploys working again while waiting for the `mimemagic` dependency on Rails to be removed. **Do not use this approach if you can't have GPL code in your repo. This is not legal advice. Ask a lawyer if you aren't sure.**
 
 To use an older mimemagic:
 
